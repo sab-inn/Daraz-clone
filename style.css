@@ -86,6 +86,12 @@ button{
     }
 }
 @media (min-width: 850px) {
+    body{
+        overflow-x: hidden; 
+    }
+    .upperbody{
+        margin-right: 30rem;
+    }
     .navbar{
         display: none;
     } 
@@ -98,6 +104,12 @@ button{
     }
 }
 @media (max-width: 600px) {
+    body{
+        overflow-x: hidden; 
+    }
+    upperbody{
+        margin-right: 30rem;
+    }
     .navbar{
         display: none;
     } 
