@@ -20,7 +20,7 @@ body {
 .navbar {
     display: flex;
     list-style-type: none;
-    margin-left: 43rem;
+    margin-left: 55rem;
 }
 
 .navbar li {
