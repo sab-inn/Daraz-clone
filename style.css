@@ -72,3 +72,27 @@ button{
     0% { color: #333; }
     100% { color: #e29f78; }
 }
+@media (max-width: 1024px) {
+   .navbar{
+    display: none;
+   }
+   .logo img {
+    margin-left: -10rem;
+    width: 7rem;
+}
+   .logo{
+    margin-left: 30rem;
+    text-align: center;
+    justify-content: center;
+    display: block;
+   }
+   .logo input{
+    text-align: center;
+    justify-content: center;
+    width: 20rem;
+   }
+}
+
+@media (max-width: 480px) {
+    
+}
