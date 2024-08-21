@@ -11,7 +11,7 @@ body{
 }
 .upperbody {
     background-color:rgb(152, 84, 51);;
-    display: blocks;
+    display: flex;
     justify-content: flex-end;
     padding: 1rem;
     position: relative;
