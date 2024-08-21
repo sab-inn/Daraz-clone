@@ -81,7 +81,7 @@ button{
       width: 10rem;
     }
     .logo input{
-        margin-left: 20rem;
+        margin-left: 22rem;
     }
 }
 @media (max-width: 850px) {
@@ -96,7 +96,7 @@ button{
       width: 10rem;
     }
     .logo input{
-        margin-left: 20rem;
+        margin-left: 22rem;
     }
 }
 @media (max-width: 600px) {
@@ -111,6 +111,6 @@ button{
       width: 10rem;
     }
     .logo input{
-        margin-left: 20rem;
+        margin-left: 22rem;
     }
 }
