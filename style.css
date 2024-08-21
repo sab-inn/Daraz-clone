@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+.upperbody {
+    background-color: red;
+    width: 50%;
+    display: flex;
+    justify-content: left;
+}
+.middlebody {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.navbar {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin-left: -20px;
+}
+.navbar li {
+    margin: 0 10px;
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
