@@ -74,27 +74,27 @@ button{
 }
 @media (max-width: 1024px) {
     body{
+        width: 90rem;
         padding: 0;
         margin: 0;
     }
     .upperbody{
         width: 90rem;
-        height: 10em;
     }
    .navbar{
     display: none;
    }
    .logo img {
-    margin-left: -60rem;
+    margin-left: -40rem;
     width: 20rem;
 }
    .logo{
-    margin-left: 65rem;
     text-align: center;
     justify-content: center;
     display: block;
    }
    .logo input{
+    margin-left: 30rem;
     text-align: center;
     justify-content: center;
     width: 50rem;
