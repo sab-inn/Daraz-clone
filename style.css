@@ -74,8 +74,8 @@ button{
 }
 @media (max-width: 1024px) {
     .upperbody{
-        width: 100rem;
-        height: 20rem;
+        width: 90rem;
+        height: 10em;
     }
    .navbar{
     display: none;
