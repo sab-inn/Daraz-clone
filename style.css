@@ -78,6 +78,7 @@ button{
         display: none;
     } 
     .upperbody{
+        background-position: 100%;
         background-color: rgb(152, 84, 51);
         margin-right: 40rem;
     }
@@ -86,7 +87,6 @@ button{
     }
     .logo input{
         margin-left: 4rem;
-        padding-left: 30rem;
     }
 }
 @media (max-width: 850px) {
@@ -94,6 +94,7 @@ button{
         overflow-x: hidden; 
     }
     .upperbody{
+        background-position: 100%;
         background-color: rgb(152, 84, 51);
         margin-right: 40rem;
     }
@@ -105,7 +106,6 @@ button{
     }
     .logo input{
         margin-left: 4rem;
-        padding-left: 32rem;
     }
 }
 @media (max-width: 600px) {
@@ -113,6 +113,7 @@ button{
         overflow-x: hidden; 
     }
     .upperbody{
+        background-position: 100%;
         background-color: rgb(152, 84, 51);
         margin-right: 40rem;
     }
@@ -124,6 +125,5 @@ button{
     }
     .logo input{
         margin-left: 4rem;
-        padding-left: 32rem;
     }
 }
