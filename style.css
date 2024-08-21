@@ -5,7 +5,6 @@
     box-sizing: border-box;
     line-height: 1.5em;
     font-family: Arial, sans-serif;
-    overflow-x: hidden; 
 }
 .upperbody {
     background-color:rgb(152, 84, 51);;
@@ -13,6 +12,7 @@
     justify-content: flex-end;
     padding: 1rem;
     position: relative;
+    overflow-x: hidden; 
 }
 
 .navbar {
