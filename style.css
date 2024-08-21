@@ -10,6 +10,7 @@ body{
     overflow-x: hidden; 
 }
 .upperbody {
+    background-color:rgb(152, 84, 51);;
     display: blocks;
     justify-content: flex-end;
     padding: 1rem;
@@ -73,9 +74,6 @@ button{
 }
 
 @media (max-width: 1024px) {
-    .upperbody{
-        background-color: rgb(173, 168, 163);
-    }
     .navbar{
         display: none;
     } 
@@ -91,9 +89,6 @@ button{
     }
 }
 @media (max-width: 850px) {
-    .upperbody{
-        background-color: rgb(173, 168, 163);
-    }
     body{
         overflow-x: hidden; 
     }
@@ -112,9 +107,6 @@ button{
     }
 }
 @media (max-width: 600px) {
-    .upperbody{
-        background-color: rgb(173, 168, 163);
-    }
     body{
         overflow-x: hidden; 
     }
