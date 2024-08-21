@@ -9,6 +9,7 @@ body{
     overflow-x: hidden; 
 }
 .upperbody {
+    box-sizing: border-box;
     background-color:rgb(152, 84, 51);;
     display: blocks;
     justify-content: flex-end;
