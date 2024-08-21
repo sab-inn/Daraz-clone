@@ -10,8 +10,7 @@
     background-color:rgb(152, 84, 51);;
     display: block;
     justify-content: flex-end;
-    position: relative;
-    overflow-x: hidden; 
+    position: relative; 
 }
 
 .navbar {
