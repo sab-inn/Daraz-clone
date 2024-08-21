@@ -73,6 +73,10 @@ button{
     100% { color: #e29f78; }
 }
 @media (max-width: 1024px) {
+    .upperbody{
+        width: 100%;
+        height: 100%;
+    }
    .navbar{
     display: none;
    }
