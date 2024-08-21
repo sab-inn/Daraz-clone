@@ -77,6 +77,10 @@ button{
     .navbar{
         display: none;
     } 
+    .upperbody{
+        background-color: rgb(152, 84, 51);
+        margin-right: 40rem;
+    }
     .logo img{
       width: 11rem;
     }
@@ -90,6 +94,7 @@ button{
         overflow-x: hidden; 
     }
     .upperbody{
+        background-color: rgb(152, 84, 51);
         margin-right: 40rem;
     }
     .navbar{
@@ -107,7 +112,8 @@ button{
     body{
         overflow-x: hidden; 
     }
-    upperbody{
+    .upperbody{
+        background-color: rgb(152, 84, 51);
         margin-right: 40rem;
     }
     .navbar{
