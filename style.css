@@ -77,12 +77,8 @@ button{
     .navbar{
         display: none;
     } 
-    .upperbody{
-        background-position: 100%;
-        background-color: rgb(152, 84, 51);
-        margin-right: 40rem;
-    }
     .logo img{
+        padding-left: 20rem;
       width: 11rem;
     }
     .logo input{
@@ -93,15 +89,11 @@ button{
     body{
         overflow-x: hidden; 
     }
-    .upperbody{
-        background-position: 100%;
-        background-color: rgb(152, 84, 51);
-        margin-right: 40rem;
-    }
     .navbar{
         display: none;
     } 
     .logo img{
+        padding-left: 20rem;
       width: 13rem;
     }
     .logo input{
@@ -112,15 +104,11 @@ button{
     body{
         overflow-x: hidden; 
     }
-    .upperbody{
-        background-position: 100%;
-        background-color: rgb(152, 84, 51);
-        margin-right: 40rem;
-    }
     .navbar{
         display: none;
     } 
     .logo img{
+        padding-left: 20rem;
       width: 13rem;
     }
     .logo input{
