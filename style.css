@@ -1,18 +1,18 @@
 * {
+    width: 100%;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     line-height: 1.5em;
     font-family: Arial, sans-serif;
 }
-body{
-    overflow-x: hidden;
-}
 .upperbody {
     background-color:rgb(152, 84, 51);;
     display: block;
     justify-content: flex-end;
-    position: relative; 
+    padding: 1rem;
+    position: relative;
+     overflow-x: hidden; 
 }
 
 .navbar {
