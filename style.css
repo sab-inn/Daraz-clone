@@ -20,7 +20,7 @@ body {
 .navbar {
     display: flex;
     list-style-type: none;
-    margin-left: 40rem;
+    margin-left: 43rem;
 }
 
 .navbar li {
@@ -46,7 +46,7 @@ body {
 }
 
 .logo {
-    padding-right:;
+    padding-right:15rem;
     display: flex;
     align-items: center;
 }
@@ -58,7 +58,6 @@ body {
     font-size: 16px;
     border-radius: 5rem;
     color: white;
-    margin-left: 1rem;
 }
 
 .logo img {
