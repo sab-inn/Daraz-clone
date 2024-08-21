@@ -1,14 +1,14 @@
 * {
+    width: 100%;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    line-height: 1.5em;
     font-family: Arial, sans-serif;
 }
-
-body {
-    margin: 0;
+body{
+    overflow-x: hidden; 
 }
-
 .upperbody {
     background-color: rgb(152, 84, 51);
     display: blocks;
@@ -61,7 +61,7 @@ body {
 }
 
 .logo img {
-    width: 7rem;
+    width: 7.5rem;
 }
 button{
     font-size: 2.5rem;
@@ -72,34 +72,40 @@ button{
     0% { color: #333; }
     100% { color: #e29f78; }
 }
-@media (max-width: 1024px) {
-    body{
-        width: 50rem;
-        padding: 0;
-        margin: 0;
-    }
-   .navbar{
-    display: none;
-   }
-   .logo img {
-    margin-left: -20rem;
-    width: 20rem;
-}
-   .logo{
-    text-align: center;
-    justify-content: center;
-    display: block;
-   }
-   .logo input{
-    margin-left: 60rem;
-    width: 60rem;
-    font-size: 50px;
-   }
-   button{
-    font-size: 6.5rem;
-   }
-}
 
-@media (max-width: 480px) {
-    
+@media (max-width: 1024px) {
+    .navbar{
+        display: none;
+    } 
+    .logo img{
+      width: 11rem;
+    }
+    .logo input{
+        margin-left: 4rem;
+        padding-left: 30rem;
+    }
+}
+@media (min-width: 850px) {
+    .navbar{
+        display: none;
+    } 
+    .logo img{
+      width: 9rem;
+    }
+    .logo input{
+        margin-left: 4rem;
+        padding-left: 32rem;
+    }
+}
+@media (max-width: 600px) {
+    .navbar{
+        display: none;
+    } 
+    .logo img{
+      width: 11rem;
+    }
+    .logo input{
+        margin-left: 2rem;
+        padding-left: 10rem;
+    }
 }
