@@ -88,11 +88,13 @@ button{
     text-align: center;
     justify-content: center;
     display: block;
+    font-size: 20px;
    }
    .logo input{
     text-align: center;
     justify-content: center;
     width: 20rem;
+    font-size: 20px;
    }
 }
 
