@@ -44,7 +44,7 @@ body {
     font-size: 16px;
 }
 .logo img{
-    width: 10rem;
+    width: 7rem;
 }
 @keyframes colorChange {
     0% { color: #333; }
