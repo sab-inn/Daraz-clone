@@ -11,7 +11,7 @@ body{
     overflow-x: hidden; 
 }
 .upperbody {
-    background-color:rgb(152, 84, 51);;
+    background-color:rgb(152, 84, 51);
     display: block;
     justify-content: flex-end;
     padding: 1rem;
