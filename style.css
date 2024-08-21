@@ -85,7 +85,7 @@ button{
     display: none;
    }
    .logo img {
-    margin-left: -40rem;
+    margin-left: -20rem;
     width: 20rem;
 }
    .logo{
@@ -94,14 +94,12 @@ button{
     display: block;
    }
    .logo input{
-    margin-left: 30rem;
-    text-align: center;
-    justify-content: center;
-    width: 50rem;
+    margin-left: 70rem;
+    width: 60rem;
     font-size: 50px;
    }
    button{
-    font-size: 7rem;
+    font-size: 6.5rem;
    }
 }
 
