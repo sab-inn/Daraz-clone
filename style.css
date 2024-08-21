@@ -10,7 +10,6 @@ body{
     overflow-x: hidden; 
 }
 .upperbody {
-    background-color: rgb(152, 84, 51);
     display: blocks;
     justify-content: flex-end;
     padding: 1rem;
@@ -77,10 +76,10 @@ button{
     .navbar{
         display: none;
     } 
-    /* .logo img{
-        padding-left: 20rem;
+    .logo img{
+        margin-left: 20rem;
       width: 11rem;
-    } */
+    }
     .logo input{
         margin-left: 24rem;
     }
@@ -92,10 +91,10 @@ button{
     .navbar{
         display: none;
     } 
-    /* .logo img{
-        padding-left: 20rem;
+    .logo img{
+        margin-left: 20rem;
       width: 13rem;
-    } */
+    }
     .logo input{
         margin-left: 24rem;
     }
@@ -107,10 +106,10 @@ button{
     .navbar{
         display: none;
     } 
-    /* .logo img{
-        padding-left: 20rem;
+    .logo img{
+        margin-left: 20rem;
       width: 13rem;
-    } */
+    }
     .logo input{
         margin-left: 24rem;
     }
